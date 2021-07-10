@@ -21,4 +21,5 @@ public class Ejercicio3 {
 		System.out.println("El sueldo total es:"+st);
 	}
 
+	
 }
