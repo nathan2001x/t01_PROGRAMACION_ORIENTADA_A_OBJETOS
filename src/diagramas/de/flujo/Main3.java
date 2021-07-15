@@ -1,19 +1,18 @@
 package diagramas.de.flujo;
 
-public class Main3 {
-	// imprimir tabla del 7 hasta el 12
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int n=7,c;
-		for(int b=0;b<=12;b++) {
-			c=n*b;
-			System.out.println(c);
-		} 
-			
-		
-		
-		
-		
-	}
+import java.util.Scanner;
 
+public class Main3 {
+	public static void main(String[] args) {
+	int n;
+	Scanner teclado=new Scanner(System.in);
+	System.out.println("Ingrese numero de filas ");
+	n=teclado.nextInt();
+	for(int f=1;f<=n;f=f+1) {
+		for(int a=1;a<=f;a=a+1) {
+			System.out.print("*");
+		}
+		System.out.println("");
+	}
+}
 }
