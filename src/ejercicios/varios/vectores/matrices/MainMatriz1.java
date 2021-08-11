@@ -6,7 +6,7 @@ public class MainMatriz1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//1.Declare una matriz A[3,4] tipo chary  desarrolle un programa que vaya solicitando cada una de sus posiciones 
+		//1.Declare una matriz A[3,4] tipo char y  desarrolle un programa que vaya solicitando cada una de sus posiciones 
 		// este es mi teclado
 		Scanner teclado=new Scanner (System.in);
 		
