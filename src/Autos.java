@@ -1,5 +1,5 @@
 package deber.pareja.metodos;
-
+//esta es mi clase no Main Nathan Velez
 public class Autos {
 
 	String color;

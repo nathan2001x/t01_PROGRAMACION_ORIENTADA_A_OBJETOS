@@ -1,5 +1,5 @@
 package deber.pareja.metodos;
-
+//esta es la clase no main de Diana Guashca
 public class Biblioteca {
 
 	 String libros;

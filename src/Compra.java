@@ -1,5 +1,6 @@
 package deber.pareja.metodos;
-
+//esta es la instancia y ejecucion de la clase Auto
+//echo por Diana Guashca
 public class Compra {
 
 	public static void main(String[] args) {
