@@ -15,7 +15,7 @@ public class Prestamo {
 	    System.out.println("Nombre del libro:"+ Primerprestamo.libros  );
 	    System.out.println("El autor del libro:  "+Primerprestamo.autores  );
 	    System.out.println("Nombre del que realiza el Prestamo:  "+Primerprestamo.lectores  );
-	    System.out.println("Codigo del libro:  "+ Primerprestamo.codigoLibro );
+	    System.out.println("Codigo del libro:   "+ Primerprestamo.codigoLibro );
 	    System.out.println();
 	    
 		Biblioteca Segundoprestamo=new Biblioteca();
