@@ -2,10 +2,10 @@ package deber.pareja.metodos;
 //esta es mi clase no Main Nathan Velez
 public class Autos {
 
-	String color;
-	String marca;
-	String modelo;
-	double precio;
+	public String color;
+	public String marca;
+	public String modelo;
+	public double precio;
 	public void comprar(String autosDisponibles, int Ncedula) {
 		System.out.println(" BIENVEDIDO ");
 		System.out.println("OFRECEMOS: ");
