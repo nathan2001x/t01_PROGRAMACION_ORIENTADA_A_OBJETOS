@@ -3,6 +3,9 @@ package ejercicios.vectores;
 public class MainVectores {
 
 	public static void main(String[] args) {
+		
+		// ARCHIVO MODIFICADO
+		
 		// TODO Auto-generated method stub
 		// 1.Declarar un vector a[10] tipo int
 		int miVector[] = new int[10];
