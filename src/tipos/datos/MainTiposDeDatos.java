@@ -3,6 +3,9 @@ package tipos.datos;
 public class MainTiposDeDatos {
 
 	public static void main(String[] args) {
+		
+		// MODIFICACIONES 
+		
 		// TODO Auto-generated method stub
 		short cantidadEstudiantesUCE= 1000;
 		byte entradaCircuito=0;
