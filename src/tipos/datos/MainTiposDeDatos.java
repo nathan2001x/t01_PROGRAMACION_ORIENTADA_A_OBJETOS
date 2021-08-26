@@ -5,6 +5,7 @@ public class MainTiposDeDatos {
 	public static void main(String[] args) {
 		
 		// MODIFICACIONES 
+		// arreglo git
 		
 		// TODO Auto-generated method stub
 		short cantidadEstudiantesUCE= 1000;
