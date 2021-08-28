@@ -1,6 +1,6 @@
 package deber.ajedrez;
 
-public abstract class Tablero {
+public abstract class PiezasDeTablero {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -41,7 +41,7 @@ public abstract class Tablero {
 		Torre torreNegra=new Torre();
 		torreNegra.setColor("Negro");
 		
-		Tablero tablero[][]= new Tablero[8][8];
+		PiezasDeTablero tablero[][]= new PiezasDeTablero[8][8];
 		
 		tablero[0][0]=torreBlanca;
 		tablero[0][1]=caballoBlanco;

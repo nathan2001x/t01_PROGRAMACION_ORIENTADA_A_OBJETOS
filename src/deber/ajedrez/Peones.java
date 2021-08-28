@@ -1,6 +1,6 @@
 package deber.ajedrez;
 
-public class Peones extends Tablero{
+public class Peones extends PiezasDeTablero{
 	
 	public String color;
 

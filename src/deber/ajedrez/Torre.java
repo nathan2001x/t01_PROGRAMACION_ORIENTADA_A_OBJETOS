@@ -1,6 +1,6 @@
 package deber.ajedrez;
 
-public class Torre extends Tablero{
+public class Torre extends PiezasDeTablero{
 	
 	public String color;
 

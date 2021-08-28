@@ -1,6 +1,6 @@
 package deber.ajedrez;
 
-public class Alfil extends Tablero{
+public class Alfil extends PiezasDeTablero{
 	
 	public String color;
 
