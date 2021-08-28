@@ -1,6 +1,6 @@
 package deber.ajedrez;
 
-public class Tablero {
+public abstract class Tablero {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -78,6 +78,8 @@ public class Tablero {
 		tablero[7][5]=alfilNegro;
 		tablero[7][6]=caballoNegro;
 		tablero[7][7]=torreNegra;
+		
+		System.out.println(tablero);
 		
 	}
 
