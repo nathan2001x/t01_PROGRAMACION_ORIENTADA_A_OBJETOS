@@ -96,42 +96,42 @@ public class Asientos  {
 			jenny.setCodigoSeguro(013);
 			jenny.setEdad(61);
 			
-			Adolecentes juancho = new Adolecentes();
+			Pasajeros juancho = new Pasajeros();
 			juancho.setApellido("Gonzales");
 			juancho.setEdad(16);
 			juancho.setNombre("Juancho");
 			
-			Adolecentes damian = new Adolecentes();
+			Pasajeros damian = new Pasajeros();
 			damian.setApellido("Chulca");
 			damian.setEdad(15);
 			damian.setNombre("Damian");
 			
-			Adolecentes cristian = new Adolecentes();
+			Pasajeros cristian = new Pasajeros();
 			cristian.setApellido("Chulca");
 			cristian.setEdad(17);
 			cristian.setNombre("Cristian");
 			
-			Adolecentes roddy = new Adolecentes();
+			Pasajeros roddy = new Pasajeros();
 			roddy.setApellido("Vasques");
 			roddy.setEdad(16);
 			roddy.setNombre("Roddy");
 			
-			Adolecentes edison = new Adolecentes();
+			Pasajeros edison = new Pasajeros();
 			edison.setApellido("Caiza");
 			edison.setEdad(16);
 			edison.setNombre("Edison");
 			
-			Adolecentes manuel = new Adolecentes();
+			Pasajeros manuel = new Pasajeros();
 			manuel.setApellido("Cisto");
 			manuel.setEdad(14);
 			manuel.setNombre("Manuel");
 			
-			Adolecentes leonel = new Adolecentes();
+			Pasajeros leonel = new Pasajeros();
 			leonel.setApellido("Jimenes");
 			leonel.setEdad(13);
 			leonel.setNombre("Leonel");
 	
-			Adolecentes listaAsientos [][]= new Adolecentes[4][5];
+			Pasajeros listaAsientos [][]= new Pasajeros[4][5];
 			listaAsientos[0][0]=pedro;
 			listaAsientos[0][1]=elias;
 			listaAsientos[0][2]=pablo;
